@@ -1,0 +1,5 @@
+Searching for p
+In file poem.txt
+
+Then there's a pair of us - don't tell!
+How public, like a frog
