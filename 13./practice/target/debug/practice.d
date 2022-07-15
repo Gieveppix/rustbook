@@ -1,0 +1,1 @@
+/home/marko/Desktop/gitRustBook/rustbook/13./practice/target/debug/practice: /home/marko/Desktop/gitRustBook/rustbook/13./practice/src/lib.rs /home/marko/Desktop/gitRustBook/rustbook/13./practice/src/main.rs
