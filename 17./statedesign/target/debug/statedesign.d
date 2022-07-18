@@ -1,0 +1,1 @@
+/Users/mmilanovic/Documents/RustTest/17./statedesign/target/debug/statedesign: /Users/mmilanovic/Documents/RustTest/17./statedesign/src/lib.rs /Users/mmilanovic/Documents/RustTest/17./statedesign/src/main.rs
